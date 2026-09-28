@@ -1,0 +1,11 @@
+PREGUNTAS
+1.Git add prepara los archivos para el commit al repositorio y commit los
+añade definitivamente al repositorio como una version que podra ser recuperable despues
+2.Git status sirve para ver como se encuentran los archivos del repositorio,
+si estan actualizados a los cambios de la version mas reciente o no
+3.Con git log se obtiene un registro de todas las operaciones que hayan afectado al repositorio
+4.Git diff muestra los diferentes estados de un archivo en el repositorio
+5.Ocurre que si haces un git status te muestra los archivos que han sido modificados
+respecto a la version mas reciente
+6.Git es el repositorio local y GitHub es el repositorio en la nube
+7.Es importante para poder saber que cambios incorpora cada version de manera rapida
